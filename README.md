@@ -6,6 +6,14 @@ This project demonstrates an event-driven, scalable, and cost-efficient applicat
 
 ---
 
+## 🌐 Live Website
+
+Click below to visit the live app:
+
+🔗 http://devopsmasterbkt.s3-website.eu-north-1.amazonaws.com/ 
+_(Hosted using S3 + CloudFront, powered by AWS)_
+
+
 ## ⚙️ Tech Stack
 
 - 🗂️ **Amazon S3** – Static web hosting (HTML, CSS, JS)
